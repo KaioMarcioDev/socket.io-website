@@ -35,6 +35,10 @@ Additionally, at the end of each step you will find a link to some online platfo
 
 In the Node.js world, there are two ways to import modules:
 
+-First let's install the socket.io package
+```js
+npm install socket.io
+```
 - the standard way: ECMAScript modules (or ESM)
 
 ```js
